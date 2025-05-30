@@ -1,0 +1,9 @@
+---
+
+## Requirements
+
+* **Python 3.x**: The script is written in Python and requires a Python 3 interpreter.
+* **OpenCV-Python**: The main library for image processing.
+* **NumPy**: A fundamental library for numerical operations, used by OpenCV.
+
+---
